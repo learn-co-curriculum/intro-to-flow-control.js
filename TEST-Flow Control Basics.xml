@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="11" errors="0" failures="0" time="0.007" timestamp="2016-03-22T09:08:10">
+		<testcase classname="Flow Control Basics" name="#basicTeenager should return &amp;quot;You are a teenager!&amp;quot; if the age is between 13-19" time="0.002">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#basicTeenager should return undefined if the age is not between 13-19" time="0.001">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#teenager should return &amp;quot;You are a teenager!&amp;quot; if the age is between 13-19" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#teenager should return &amp;quot;you are not a teenager&amp;quot; if the age is not between 13-19" time="0.001">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#ageChecker should return &amp;quot;You are a teenager!&amp;quot; if the age is between 13-19" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#ageChecker should return &amp;quot;You are a kid&amp;quot; if the age is 12 or below" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#ageChecker should return &amp;quot;You are a grownup&amp;quot; if the age is 20 or above" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#ternaryTeenager should return &amp;quot;You are a teenager&amp;quot; if age is between 13-19" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#ternaryTeenager should return &amp;quot;You are not a teenager&amp;quot; if age not between 13-19" time="0.001">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#switchAge should return &amp;quot;You are a teenager&amp;quot; if age is between 13-19" time="0">
+		</testcase>
+		<testcase classname="Flow Control Basics" name="#switchAge should return &amp;quot;You are not a teenager&amp;quot; if age not between 13-19" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
