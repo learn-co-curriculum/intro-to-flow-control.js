@@ -129,7 +129,7 @@ switch(mood){
 
 In the example above, we'll see `"You should eat a big chocolate cake"` printed to the console. If we change the value of the `mood` variable to `sad` you'll see `"You should eat a pint of icecream"`. If the value of `mood` changed to `"grumpy"`, the default statement would trigger and print out `"That's not a mood we support"`.
   
-+ Define a function `switchAge` that accepts an age as a parameter. The case statement should switch on `age` and return `"You are a teenager"` if the age is 13, 14, 15, 16, 17, 18, or 19, and return `"You have an age"` as the default.
++ Define a function `switchAge` that accepts an age as a parameter. The case statement should switch on `age` and return `"You are a teenager!"` if the age is 13, 14, 15, 16, 17, 18, or 19, and return `"You have an age"` as the default.
 
 
 ## Resources
@@ -140,3 +140,5 @@ In the example above, we'll see `"You should eat a big chocolate cake"` printed 
 * [Codecademy - Switch Statements](http://www.codecademy.com/glossary/javascript/switch-statements)
 
 <a href='https://learn.co/lessons/intro-to-flow-control.js' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-flow-control.js'>Intro To Flow Control in JS</a> on Learn.co and start learning to code for free.</p>
